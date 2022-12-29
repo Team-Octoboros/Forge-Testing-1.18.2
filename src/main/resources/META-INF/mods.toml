@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All rights reserved"
+
+[[mods]]
+modId="testing_mod"
+version="0.0.1-1.182"
+displayName="Testing Mod"
+# A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+displayURL="https://github.com/Team-Octoboros"
+logoFile="testing_mod-logo.png"
+credits="Thanks to kaupenjoe for the excellent tutorial"
+authors="Team Octoboros"
+description='''
+This is a mod for Team Octoboros to test things without damaging an actual project
+'''
+
+[[dependencies.testing_mod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.testing_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
