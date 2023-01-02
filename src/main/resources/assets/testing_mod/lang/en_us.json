@@ -1,4 +1,7 @@
 {
   "item.testing_mod.raw_testium": "Raw Testium",
-  "item.testing_mod.refined_testium": "Refined Testium"
+  "item.testing_mod.refined_testium": "Refined Testium",
+
+  "block.testing_mod.testium_block": "Block of Testium",
+  "block.testing_mod.testium_ore_block": "Block of Testium Ore"
 }
