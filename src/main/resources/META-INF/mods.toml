@@ -6,8 +6,6 @@ license="All rights reserved"
 modId="testing_mod"
 version="0.0.1-1.182"
 displayName="Testing Mod"
-# A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
-#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
 displayURL="https://github.com/Team-Octoboros"
 logoFile="testing_mod-logo.png"
 credits="Thanks to kaupenjoe for the excellent tutorial"
